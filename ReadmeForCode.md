@@ -29,12 +29,6 @@ For each record in the dataset it is provided:
 - An identifier of the subject who carried out the experiment.
 
 
-Relevant Papers:
-
-N/A
-
-
-
 Citation Request:
-
+----------------
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
